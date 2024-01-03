@@ -45,7 +45,7 @@ VisualNOS: '- GreyBlue23'
 WarningMsg: 'Indianred1'
 WildMenu: 'Grey28 Khaki3'
 # BASE SYNTAX
-Comment: 'DarkOrange3'
+Comment: 'Bracken'
 Constant: 'DeepSkyBlue3'
 String: 'PaleTurquoise4' # Constant
 Character: 'SpringGreen2' # Constant
