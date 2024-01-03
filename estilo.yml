@@ -7,9 +7,9 @@ description: ''
 colorschemes:
 - name: 'ullswater'
   background: 'dark'
-  palette: 'ullswater-dark'
+  palette: 'ullswater'
 lightline:
 - name: 'ullswater'
-  palette: 'ullswater-dark'
+  palette: 'ullswater'
   style: 'ullswater'
 
