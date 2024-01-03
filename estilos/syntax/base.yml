@@ -31,7 +31,7 @@ Question: 'Khaki3'
 Search: 'White - r'
 SpecialKey: 'Grey44'
 SpellBad: 'Indianred1'
-SpellLocal: 'Tan'
+SpellLocal: 'Sawdust'
 SpellCap: 'SandyBrown'
 SpellRare: 'SteelBlue1'
 StatusLine: 'Grey1D Grey66'
@@ -53,11 +53,11 @@ Boolean: '' # Constant
 Number: '' # Constant
 Float: '' # Constant
 Identifier: ''
-Function: 'SkyBlue2' # Identifier
+Function: 'LightSkyBlue1' # Identifier
 Statement: 'Stone'  # assign etc
 Conditional: 'Grass' # Statement
 Repeat: 'Grass' # Statement
-Label: 'Tan' # Statement
+Label: 'Sawdust' # Statement
 Operator: 'Khaki3' # Statement
 Keyword: '' # Statement
 Exception: '' # Statement
@@ -70,7 +70,7 @@ Type: 'Grass'
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
-Special: 'Tan' # verilog operator
+Special: 'Sawdust'
 SpecialChar: '' # Special
 Tag: '' # Special
 Delimiter: '' # Special
