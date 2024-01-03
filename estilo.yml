@@ -8,3 +8,8 @@ colorschemes:
 - name: 'ullswater'
   background: 'dark'
   palette: 'ullswater-dark'
+lightline:
+- name: 'ullswater'
+  palette: 'ullswater-dark'
+  style: 'ullswater'
+
