@@ -41,7 +41,7 @@ let g:ullswater_bold = get(g:, '_bold', 0)
   hi MatchParen guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Normal guifg=#00af5f ctermfg=35 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-  hi PMenu guifg=#dadada ctermfg=253 guibg=#335261 ctermbg=239 gui=NONE cterm=NONE
+  hi PMenu guifg=#DADADA ctermfg=253 guibg=#335261 ctermbg=239 gui=NONE cterm=NONE
   hi PMenuSel guifg=#335261 ctermfg=239 guibg=#c9d05c ctermbg=185 gui=NONE cterm=NONE
   hi PmenuSbar guifg=#335261 ctermfg=239 guibg=#335261 ctermbg=239 gui=NONE cterm=NONE
   hi PmenuThumb guifg=#c9d05c ctermfg=185 guibg=#c9d05c ctermbg=185 gui=NONE cterm=NONE
@@ -52,7 +52,7 @@ let g:ullswater_bold = get(g:, '_bold', 0)
   hi SpellLocal guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi SpellCap guifg=#ffc24b ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi SpellRare guifg=#73cef4 ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-  hi StatusLine guifg=#1d1d1d ctermfg=234 guibg=#666666 ctermbg=242 gui=NONE cterm=NONE
+  hi StatusLine guifg=#1D1D1D ctermfg=234 guibg=#666666 ctermbg=242 gui=NONE cterm=NONE
   hi StatusLineNC guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
   hi TabLine guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
   hi TabLineFill guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
@@ -71,7 +71,7 @@ let g:ullswater_bold = get(g:, '_bold', 0)
   hi Conditional guifg=#00ff5f ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Repeat guifg=#00ff5f ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Label guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-  hi Operator guifg=#b3deef ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+  hi Operator guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Define guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Type guifg=#00ff5f ctermfg=47 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi Special guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
