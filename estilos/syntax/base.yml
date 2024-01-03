@@ -1,0 +1,82 @@
+# BASE UI
+ColorColumn: '- bgColorColumn'
+Conceal: ''
+Cursor: ''
+CursorIM: ''
+CursorColumn: '- bgCursorColumn'
+CursorLine: '- bgCursorColumn'
+CursorLineNr: 'fgCursorLineNr'
+Directory: 'fgDirectory'
+DiffAdd: '- bgDiffAdd'
+DiffChange: '- bgDiffChange'
+DiffDelete: '- bgDiffDelete'
+DiffText: ''
+ErrorMsg: 'fgErrorMsg'
+VertSplit: 'fgVertSplit'
+Folded: 'fgFolded bgFolded'
+FoldColumn: 'fgFoldColumn bgFoldColumn'
+SignColumn: 'fgSignColumn bgSignColumn'
+IncSearch: 'fgIncSearch bgIncSearch'
+LineNr: 'fgLineNr'
+MatchParen: 'fgMatchParen'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'fgNonText'
+Normal: 'SpringGreen3'
+PMenu: 'fgPMenu bgPMenu'
+PMenuSel: 'fgPMenuSel bgPMenuSel'
+PmenuSbar: 'fgPmenuSbar bgPmenuSbar'
+PmenuThumb: 'fgPmenuThumb bgPmenuThumb'
+Question: 'fgQuestion'
+Search: 'fgSearch'
+SpecialKey: 'fgSpecialKey'
+SpellBad: 'fgSpellBad'
+SpellLocal: 'fgSpellLocal'
+SpellCap: 'fgSpellCap'
+SpellRare: 'fgSpellRare'
+StatusLine: 'fgStatusLine bgStatusLine'
+StatusLineNC: 'fgStatusLineNC bgStatusLineNC'
+TabLine: 'fgTabLine bgTabLine'
+TabLineFill: '- bgTabLineFill'
+TabLineSel: 'fgTabLineSel'
+Title: 'fgTitle'
+Visual: '- bgVisual'
+VisualNOS: '- bgVisualNOS'
+WarningMsg: 'fgWarningMsg'
+WildMenu: 'fgWildMenu bgWildMenu'
+# BASE SYNTAX
+Comment: 'DarkOrange3'
+Constant: 'DeepSkyBlue3'
+String: 'PaleTurquoise4' # Constant
+Character: 'SpringGreen2' # Constant
+Boolean: '' # Constant
+Number: '' # Constant
+Float: '' # Constant
+Identifier: ''
+Function: 'SkyBlue2' # Identifier
+Statement: 'PaleTurquoise4'  # assign etc
+Conditional: 'SpringGreen2' # Statement
+Repeat: 'SpringGreen2' # Statement
+Label: 'Tan' # Statement
+Operator: 'Khaki3' # Statement
+Keyword: '' # Statement
+Exception: '' # Statement
+PreProc: ''
+Include: '' # PreProc
+Define: 'DarkOrange' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'SpringGreen2'
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'Tan' # verilog operator
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: ''
+Todo: 'Indianred1'

@@ -1,0 +1,12 @@
+name: 'ullswater'
+version: '1.0.0'
+license: 'MIT'
+author: 'logicmonkey'
+url: ''
+description: ''
+common:
+  white: '#ffffff'
+colorschemes:
+- name: 'ullswater'
+  background: 'dark'
+  palette: 'ullswater-dark'
