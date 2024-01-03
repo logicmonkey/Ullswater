@@ -18,7 +18,7 @@ Red3: '#c5152f'
 GreyRed23: '#79313c'
 
 PaleVioletRed1: '#ff87af'
-DarkOrange: '#ff8700'
+LightBracken: '#ff8700'
 Bracken: '#af5f00'
 
 # blue 1 2 3 4 5 +
@@ -30,7 +30,7 @@ GreyBlue23: '#293b44'
 
 SkyBlue2: '#87afff'
 DeepSkyBlue3: '#0087d7'
-PaleTurquoise4: '#5f8787'
+Stone: '#5f8787'
 
 # green 1 2 3 4
 Khaki3: '#c9d05c'
@@ -39,8 +39,8 @@ GreyGreen42: '#6a6b3f'
 GreyGreen27: '#464632'
 
 GoldX: '#d7af00'
-SpringGreen2: '#00ff5f'
-SpringGreen3: '#00af5f'
+Grass: '#00ff5f'
+Leaf: '#00af5f'
 
 # yellow 1 2 3
 Tan: '#d3b987'

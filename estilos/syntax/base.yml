@@ -22,7 +22,7 @@ MatchParen: 'Indianred1'
 ModeMsg: ''
 MoreMsg: ''
 NonText: 'Grey44'
-Normal: 'SpringGreen3'
+Normal: 'Leaf'
 PMenu: 'GreyDA GreyBlue30'
 PMenuSel: 'GreyBlue30 Khaki3'
 PmenuSbar: 'GreyBlue30 Khaki3'
@@ -47,26 +47,26 @@ WildMenu: 'Grey28 Khaki3'
 # BASE SYNTAX
 Comment: 'Bracken'
 Constant: 'DeepSkyBlue3'
-String: 'PaleTurquoise4' # Constant
-Character: 'SpringGreen2' # Constant
+String: 'Stone' # Constant
+Character: 'Grass' # Constant
 Boolean: '' # Constant
 Number: '' # Constant
 Float: '' # Constant
 Identifier: ''
 Function: 'SkyBlue2' # Identifier
-Statement: 'PaleTurquoise4'  # assign etc
-Conditional: 'SpringGreen2' # Statement
-Repeat: 'SpringGreen2' # Statement
+Statement: 'Stone'  # assign etc
+Conditional: 'Grass' # Statement
+Repeat: 'Grass' # Statement
 Label: 'Tan' # Statement
 Operator: 'Khaki3' # Statement
 Keyword: '' # Statement
 Exception: '' # Statement
 PreProc: ''
 Include: '' # PreProc
-Define: 'DarkOrange' # PreProc
+Define: 'LightBracken' # PreProc
 Macro: '' # PreProc
 PreCondit: '' # PreProc
-Type: 'SpringGreen2'
+Type: 'Grass'
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
