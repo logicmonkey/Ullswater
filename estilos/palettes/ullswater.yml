@@ -17,32 +17,32 @@ Indianred1: '#f43753'
 Red3: '#c5152f'
 GreyRed23: '#79313c'
 
-PaleVioletRed1: '#ff87af'
+PaleVioletRed1: '#ff87af' # not used
 LightBracken: '#ff8700'
 Bracken: '#af5f00'
 
 # blue 1 2 3 4 5 +
 LightSkyBlue1: '#b3deef'
 SteelBlue1: '#73cef4'
-PaleTurquoiseX: '#44778d'
+PaleTurquoiseX: '#44778d' # not used
 GreyBlue30: '#335261'
 GreyBlue23: '#293b44'
 
-SkyBlue2: '#87afff'
+SkyBlue3: '#87afff' # not used
 DeepSkyBlue3: '#0087d7'
 Stone: '#5f8787'
 
 # green 1 2 3 4
 Khaki3: '#c9d05c'
-Gold3: '#9faa00'
-GreyGreen42: '#6a6b3f'
+Gold3: '#9faa00' # not used
+GreyGreen42: '#6a6b3f' # not used
 GreyGreen27: '#464632'
 
-GoldX: '#d7af00'
+GoldX: '#d7af00' # not used
 Grass: '#00ff5f'
 Leaf: '#00af5f'
 
 # yellow 1 2 3
 Sawdust: '#d3b987'
 SandyBrown: '#ffc24b'
-Orange4: '#715b2f'
+Orange4: '#715b2f' # not used
